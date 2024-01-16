@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "concurrently \"ng serve\" \"json-server --watch src/data/db.json\"",
     "build": "ng build --output-path=dist/AngularDeployRender",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
