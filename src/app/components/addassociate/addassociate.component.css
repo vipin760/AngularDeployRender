@@ -1,0 +1,20 @@
+.container{
+    height: auto;
+    scroll-behavior: smooth;
+}
+mat-card{
+    margin: 1%;
+    text-align: left;
+}
+.mat-mdc-form-field{
+    width:98%;
+}
+mat-50{
+    width:48%;
+    margin: 1%;
+}
+div-50{
+    display: inline;
+    margin: 1%;
+    width: 48%;
+}

@@ -1,0 +1,54 @@
+{
+  "associate": [
+    {
+      "id": "2",
+      "name": "vinod",
+      "email": "vinod@gmail.com",
+      "phone": "9747705608",
+      "associategroup": "level2",
+      "address": "mappala",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "3",
+      "name": "arun",
+      "email": "arun@gmail.com",
+      "phone": "8139886630",
+      "associategroup": "level2",
+      "address": "valavath",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "amal",
+      "email": "amal@gmail.com",
+      "phone": "8139886630",
+      "associategroup": "level1",
+      "address": "endy",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "6",
+      "name": "krithika",
+      "email": "krithika@gmail.com",
+      "phone": "8714149097",
+      "associategroup": "level1",
+      "address": "mappala",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "7",
+      "name": "vipin",
+      "email": "vipi@gmail.com",
+      "phone": "8139886630",
+      "associategroup": "level3",
+      "address": "mappala",
+      "type": "CUSTOMER",
+      "status": false
+    }
+  ]
+}
